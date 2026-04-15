@@ -1,3 +1,7 @@
+*AlfredOS is currently in production and is not ready for public use*
+
+
+
 # ![bashtop](Imgs/logo-t.png)
 
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
