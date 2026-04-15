@@ -1,4 +1,4 @@
-*This project has been moved from btop++ to bashtop*
+<sub>This project has been moved from btop++ to bashtop</sub>
 <br>
 *AlfredOS is currently in production and is not ready for public use*
 
