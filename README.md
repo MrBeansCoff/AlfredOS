@@ -1,6 +1,5 @@
+*This project has been moved from btop++ to bashtop*
 *AlfredOS is currently in production and is not ready for public use*
-<sub>This Project has been moved from btop++ to bashtop</sub>
-
 
 
 # ![bashtop](Imgs/logo-t.png)
